@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+error.log
+
+data/big_genome.fasta
+data/huge_genome.fasta
